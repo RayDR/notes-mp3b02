@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RayDR.github.io/notes-mp3b02/sitemap.xml
